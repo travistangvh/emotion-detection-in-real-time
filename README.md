@@ -1,13 +1,13 @@
 # Face Classification 
 The following repository is a real-time face detection and emotion classification model.
-<p align = "center">![Emotion Detector Demo 1](https://github.com/travistangvh/emotion-detection-in-real-time/blob/master/images/demo1.gif)
-    ![Emotion Detector Demo 2](https://github.com/travistangvh/emotion-detection-in-real-time/blob/master/images/demo2.gif)</p>
+<p align = "center">![Emotion Detector Demo 1](https://raw.githubusercontent.com/travistangvh/emotion-detection-in-real-time/master/images/demo1.gif)
+    ![Emotion Detector Demo 2](https://raw.githubusercontent.com/travistangvh/emotion-detection-in-real-time/master/images/demo2.gif)</p>
 
 The face detection is powered by MTCNN and openCV. The emotion classification model is a built on an CNN architecture called VGGFace with weights trained on the fer2013 dataset.
 
 #The Model
 The model is trained on a CNN architecture called VGGFace. 
-<p align = "center">![Trained VGGFace](https://github.com/travistangvh/emotion-detection-in-real-time/blob/master/images/VGGFaceNetwork.jpg)</p>
+<p align = "center">![Trained VGGFace](https://raw.githubusercontent.com/travistangvh/emotion-detection-in-real-time/master/images/VGGFaceNetwork.jpg)</p>
 
 ## Instructions on getting started
 ### To run the demo.
