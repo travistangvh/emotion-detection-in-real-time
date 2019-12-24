@@ -14,5 +14,5 @@ The following repository is a real-time face detection and emotion classificatio
 * Ensure that the file `../datasets/raw/fer2013.csv` exists
 
 * Run the `training_emotion_classification.py` file
-`python3 train_emotion_classifier.py`
+`python3 training_emotion_classifier.py`
 
