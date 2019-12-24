@@ -2,8 +2,8 @@
 The following repository is a real-time face detection and emotion classification model.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/travistangvh/emotion-detection-in-real-time/master/images/demo1.gif">
-    <img src="https://raw.githubusercontent.com/travistangvh/emotion-detection-in-real-time/master/images/demo2.gif">
+    <img width="320" height="480" src="https://raw.githubusercontent.com/travistangvh/emotion-detection-in-real-time/master/images/demo1.gif">
+    <img width="320" height="480" src="https://raw.githubusercontent.com/travistangvh/emotion-detection-in-real-time/master/images/demo2.gif">
 </p>
 
     
