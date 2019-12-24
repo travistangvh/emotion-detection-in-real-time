@@ -2,8 +2,8 @@
 The following repository is a real-time face detection and emotion classification model.
 
 <p align="center">
-    <img width="480" height="480" src="https://raw.githubusercontent.com/travistangvh/emotion-detection-in-real-time/master/images/demo1.gif">
-    <img width="360" height="480" src="https://raw.githubusercontent.com/travistangvh/emotion-detection-in-real-time/master/images/demo2.gif">
+    <img width="320" height="240" src="https://raw.githubusercontent.com/travistangvh/emotion-detection-in-real-time/master/images/demo1.gif">
+    <img width="320" height="240" src="https://raw.githubusercontent.com/travistangvh/emotion-detection-in-real-time/master/images/demo2.gif">
 </p>
 
 
@@ -20,7 +20,7 @@ The model is trained on a CNN architecture called VGGFace.
 
 ## Instructions on getting started
 ### To run the demo.
-* Clone this commit to your local machine using `git clone https://github.com/travistangvh/emotion-detection-in-real-time.git'
+* Clone this commit to your local machine using `git clone https://github.com/travistangvh/emotion-detection-in-real-time.git`
 
 * Install these dependencies with pip install 
 `pip install -r ../REQUIREMENTS.txt`
